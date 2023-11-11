@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "827854480131",
+    "project_id": "registerequipospc02",
+    "storage_bucket": "registerequipospc02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827854480131:android:7a98cff142caed798e3f36",
+        "android_client_info": {
+          "package_name": "com.example.registroapppc02"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAn68I0HFYf4CPfQwZ4bQIQIOnglnI_AkA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
